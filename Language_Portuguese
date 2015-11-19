@@ -1,0 +1,62 @@
++LOGIN_WELCM1 - Entraste com sucesso, {Player name}
++LOGIN_WELCM2 - Bem vindo a Argonath RPG RS5!
++LOGIN_MFERR1 - O serviço de verificação de multi-fator está em baixo. Por favor, tenta mais tarde
++LOGIN_MFERR2 - Erro: Esse código está errado!
++LOGIN_MF1    - A tua conta tem a autentificação de multi-fator ativada. \n\n Por favor, insere em baixo o código tal como se encontra na app Google Autenthicator:
++LOGIN_PASSER1- Erro: A palavra passe não corresponde! Lembra-te, possui maiúsculas e minúsculas!
++LOGIN_PASSER2- Erro: Inseriste uma palavra passe inválida.
++LOGIN_PASS2  - Por favor, repete a palavra passe que escolheste.
++LOGIN_QUIT   - Tens a certeza que desejas sair do servidor?
++LOGIN_ADULT  - Aviso: Este servidor contém elementos que podem só ser adequados a adúltos.
++LOGIN_BYE1   - Decidiste sair do servidor.
++ERROR_NOTLOG - Erro: Ainda não entraste.
++ERROR_KICK   - Erro: Não consegues utilizar esse comando agora.
++ECON_RELOAD  - [ALERTA] As tuas economias estão a ser atualizadas, atividas económicas suspensas temporáriamente.
++TXT_Login0   - Bem vindo a Argonath RPG!
++TXT_Login1   - Um mundo de si mesmo!
++CMD_TIME     - São {time} horas reais do servidor (CET - Central European time), a data é {date}
++CMD_TD       - São {time} horas do servidor, (CET - Central European time), a data é {date}
++CMD_DATE     - É dia {date}
++MONTH_1      - Janeiro
++MONTH_2      - Fevereiro
++MONTH_3      - Março
++MONTH_4      - Abril
++MONTH_5      - Maio
++MONTH_6      - Junho
++MONTH_7      - Julho
++MONTH_8      - Agosto
++MONTH_9      - Setembro
++MONTH_10     - Outubro
++MONTH_11     - Novembro
++MONTH_12     - Dezembro
++
++// Other
++RES_COMBAT   - Não podes fazer isto em combate.
++RES_NODONE	 - ERRO: Esta opção está atualmente desativada devido a um bug.
++
++// Economy
++ECON_ATM_TY  - Obrigado por utilizar este multibanco fornecido pelo banco da Argonath RPG!
++ECON_ATM_NC  - ERRO: Não estás num multibanco!
++ECON_ATM_CIV - Tu não tens uma conta bancária para utilizar este serviço! Primeiro, tens de te tornar um cidadão legal.
++ECON_ATM_LIM - ERRO: Não podes levantar quantidades superiores a $100,00 num multibanco. Por favor, visita o banco local.
++ECON_ATM_POS - ERRO: Só podes levantar uma quantidade positiva.
++ECON_ATM_1m  - ERRO: Tens de esperar 1 minuto antes de voltares a levantar dinheiro outra vez.
++ECON_BNK_N10 - ERRO: Não pode ter mais que 10 digitos.
++ECON_BNK_DBT - Banco: Desculpa, mas estás em divida. As tuas contas estão congeladas.
++ECON_BNK_ACC - Essa conta não existe ou não tens acesso a ela.
++ECON_BNK_FKT - Houve um erro na conta.
++ECON_BNK_LRG - ERRO: O valor é muito grande.
++ECON_BNK_MIN - ERRO: Valor mínimo é $1
++ECON_BNK_FUN - ERRO: Não tens dinheiro suficiente para depositar essa quantidade.
++ECON_BNK_WNSF- Tens fundos insuficientes para concluir esse pedido.
++ECON_BNK_TY  - Obrigado por visitar o banco de Argonath RPG!
++ECON_BNK_REJ - Transação negada, fundos não serão transferidos.
++ECON_BNK_PART- O teu parceiro tem de estar no banco!
++ECON_BNK_PSLF- Não podes abrir uma conta partilhada contigo mesmo.
++ECON_BNK_PNO - Selecionaste não criar uma conta.
++ECON_BNK_PPNO- O teu parceiro recusou o teu pedido de abrir uma conta partilhada.
++ECON_BNK_LOAD- ERRO: As tuas contas não estão prontas ainda. Por favor, espere.
++ECON_BNK_BNK - ERRO: Tens de estar no banco.
++ECON_BNK_CIV - ERRO: Não deixamos imigrantes utilizar contas bancárias. É necessário o passaporte primeiro.
++ECON_BNK_CRI - ERRO: O banco está fechado devido a uma crise financeira.
++ECON_BNK_GRP - ERRO: Por favor, utiliza /groupbank para levantar/depositar da conta do teu grupo.
